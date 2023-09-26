@@ -1,7 +1,7 @@
 # Face Image Quality Enhancement Study for Face Recognition
 This repository contains code, materials for the work of face enhancement on face recognition task.
 
-[[Report]](xxx)
+[[Report]]([xxx](https://arxiv.org/abs/2307.05534))
 
 # Abstract
 * The problem of face recognition in low quality photos has not been well-studied so far. 
